@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Miplayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="single_cn">单曲</string>
+    <string name="artist_cn">歌手</string>
+    <string name="album_cn">专辑</string>
+    <string name="folder_cn">文件夹</string>
+</resources>
